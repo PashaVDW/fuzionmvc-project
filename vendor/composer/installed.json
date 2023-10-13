@@ -178,12 +178,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/PashaVDW/fuzionmvc.git",
-                "reference": "126342cc59047d3e86db814a141de00abe808679"
+                "reference": "8fb5ef9caf8dd147218ea499d41a0f00936995af"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PashaVDW/fuzionmvc/zipball/126342cc59047d3e86db814a141de00abe808679",
-                "reference": "126342cc59047d3e86db814a141de00abe808679",
+                "url": "https://api.github.com/repos/PashaVDW/fuzionmvc/zipball/8fb5ef9caf8dd147218ea499d41a0f00936995af",
+                "reference": "8fb5ef9caf8dd147218ea499d41a0f00936995af",
                 "shasum": ""
             },
             "require": {
@@ -193,7 +193,7 @@
                 "symfony/finder": "^6.1",
                 "vlucas/phpdotenv": "^5.4.1"
             },
-            "time": "2023-10-13T11:42:36+00:00",
+            "time": "2023-10-13T11:59:14+00:00",
             "default-branch": true,
             "type": "library",
             "installation-source": "dist",

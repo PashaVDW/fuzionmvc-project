@@ -23,3 +23,6 @@ require __DIR__.'/../vendor/autoload.php';
 | to this client's browser, allowing them to enjoy our application.
 |
 */
+
+require_once __DIR__ . '/../bootstrap/app.php';
+

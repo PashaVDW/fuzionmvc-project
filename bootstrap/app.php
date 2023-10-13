@@ -1,6 +1,6 @@
 <?php
 
-$app = app()->prepare()
+$app = app()->prepare(dirname(__DIR__));
 
 /*
 |--------------------------------------------------------------------------
@@ -12,3 +12,5 @@ $app = app()->prepare()
 | to this client's browser, allowing them to enjoy our application.
 |
 */
+
+return $app;
