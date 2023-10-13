@@ -1,0 +1,12 @@
+{
+  "require": {
+    "monolog/monolog": "*.*",
+    "pashavdw/fuzionmvc": "dev-main"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "minimum-stability": "dev"
+}
