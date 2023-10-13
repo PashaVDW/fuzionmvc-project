@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => 'd5bdb898c84ff5170b4181f57a64098a1d0deac3',
         'name' => '__root__',
         'dev' => true,
     ),
     'versions' => array(
         '__root__' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => 'd5bdb898c84ff5170b4181f57a64098a1d0deac3',
             'dev_requirement' => false,
         ),
         'graham-campbell/result-type' => array(
@@ -47,7 +47,7 @@
             'aliases' => array(
                 0 => '9999999-dev',
             ),
-            'reference' => '7535faa011dff8f8879cb42d2dd7b1c9094c15db',
+            'reference' => '126342cc59047d3e86db814a141de00abe808679',
             'dev_requirement' => false,
         ),
         'phpoption/phpoption' => array(

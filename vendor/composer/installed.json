@@ -178,12 +178,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/PashaVDW/fuzionmvc.git",
-                "reference": "7535faa011dff8f8879cb42d2dd7b1c9094c15db"
+                "reference": "126342cc59047d3e86db814a141de00abe808679"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PashaVDW/fuzionmvc/zipball/7535faa011dff8f8879cb42d2dd7b1c9094c15db",
-                "reference": "7535faa011dff8f8879cb42d2dd7b1c9094c15db",
+                "url": "https://api.github.com/repos/PashaVDW/fuzionmvc/zipball/126342cc59047d3e86db814a141de00abe808679",
+                "reference": "126342cc59047d3e86db814a141de00abe808679",
                 "shasum": ""
             },
             "require": {
@@ -193,7 +193,7 @@
                 "symfony/finder": "^6.1",
                 "vlucas/phpdotenv": "^5.4.1"
             },
-            "time": "2023-10-13T10:20:49+00:00",
+            "time": "2023-10-13T11:42:36+00:00",
             "default-branch": true,
             "type": "library",
             "installation-source": "dist",
@@ -215,7 +215,7 @@
                     "email": "pasha.pasha12e@gmail.com"
                 }
             ],
-            "description": "fuzionmvc",
+            "description": "php framework",
             "support": {
                 "issues": "https://github.com/PashaVDW/fuzionmvc/issues",
                 "source": "https://github.com/PashaVDW/fuzionmvc/tree/main"
